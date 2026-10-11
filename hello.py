@@ -3,5 +3,6 @@ def main():
     print(f"Hello! I am {username} on GitHub.")
     from datetime import date
     print(f"Today's date: {date.today()}")
+    print(f"Hello! (English) I am {username} on GitHub.")
 if __name__ == "__main__":
     main()
